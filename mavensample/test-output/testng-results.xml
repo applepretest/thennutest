@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18461" started-at="2018-08-27T20:36:48Z" finished-at="2018-08-27T20:37:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18461" started-at="2018-08-27T20:36:48Z" finished-at="2018-08-27T20:37:06Z">
+      <class name="MavenProject.mavensample.TCDriver">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:MavenProject.mavensample.TCDriver@5e3a8624]" name="launchBrowser" is-config="true" duration-ms="14159" started-at="2018-08-27T20:36:48Z" finished-at="2018-08-27T20:37:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="NavigatetoLogin()[pri:0, instance:MavenProject.mavensample.TCDriver@5e3a8624]" name="NavigatetoLogin" duration-ms="4262" started-at="2018-08-27T20:37:02Z" finished-at="2018-08-27T20:37:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoLogin -->
+      </class> <!-- MavenProject.mavensample.TCDriver -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
