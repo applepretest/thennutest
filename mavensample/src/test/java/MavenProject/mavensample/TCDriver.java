@@ -25,5 +25,9 @@ public class TCDriver extends ReusableMethod {
 		lp.Login("ponmani027@gmail.com", "PURPLE646");
 		
 	}
+	@Test(priority=2)
+	public void TC2() {
+		System.out.println("TC2");
+	}
 
 }
