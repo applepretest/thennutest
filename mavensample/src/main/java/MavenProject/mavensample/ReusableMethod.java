@@ -10,10 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
-/**
- * Hello world!
- *
- */
+
 public class ReusableMethod 
 {
     public WebDriver driver;
